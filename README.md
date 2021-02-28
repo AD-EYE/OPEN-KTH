@@ -14,6 +14,7 @@ Preprint available at: https://arxiv.org/abs/1912.00448
 
 
 Data collected by students of the group "AD-EYE on Road" in the capstone course of the Mechatronics Masters program using the AD-EYE platform. 
+
 Mapping using the collected data was performed by Maxime Sainte Catherine from the AD-EYE team. 
 
 
