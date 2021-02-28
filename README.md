@@ -4,6 +4,8 @@
 ### Open-KTH is a subproject of the AD-EYE testbed for Automated Driving and Intelligent Transportation Systems.
 ### Learn more at https://www.adeye.se/open-kth or contact adeye@md.kth.se
 
+-----------------------------------
+
 The AD-EYE simulation platform is based on the description presented in the work :
 
 Naveen Mohan, Martin Törngren, "A practical simulation toolchain for the early verification of Functional Safety Concepts.", SAE Technical Paper 19AE-0203/2019-01-0126, https://doi.org/10.4271/2019-01-0126
