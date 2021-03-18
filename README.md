@@ -17,16 +17,13 @@ Data collected by students of the group "AD-EYE on Road" in the capstone course 
 
 Mapping using the collected data was performed by Maxime Sainte Catherine from the AD-EYE team. 
 
+![Image of OPEN-KTH](OPEN-KTH.png)
 
 -----------------------------------
-## PCD Map of KTH campus Vahlallavägen
+## PCD/LAS Map of KTH campus Vahlallavägen
 
 
-Running the command 
-
-```bash extract_pcd_map.bash```
-
-in a terminal will extract the pcd file.
+The commands `bash extract_pcd_map.bash` and `bash extract_las_map.bash` respectively extract the pcd and the las files.
 
 
 ## Rosbags used for the mapping
