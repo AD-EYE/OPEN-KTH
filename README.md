@@ -17,7 +17,9 @@ Data collected by students of the group "AD-EYE on Road" in the capstone course 
 
 Mapping using the collected data was performed by Maxime Sainte Catherine from the AD-EYE team. 
 
-![Image of OPEN-KTH](OPEN-KTH.png)
+<p align="center">
+<img src="OPEN-KTH.png" alt="drawing" width="500"/>
+</p>
 
 -----------------------------------
 ## PCD/LAS Map of KTH campus Vahlallavägen
