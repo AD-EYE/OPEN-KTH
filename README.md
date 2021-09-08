@@ -22,7 +22,7 @@ Mapping using the collected data was performed by Maxime Sainte Catherine from t
 </p>
 
 -----------------------------------
-## PCD/LAS Map of KTH campus Vahlallavägen
+## PCD/LAS Map of KTH campus Valhallavägen
 
 
 The commands `bash extract_pcd_map.bash` and `bash extract_las_map.bash` respectively extract the pcd and the las files.
