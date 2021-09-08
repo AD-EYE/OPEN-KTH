@@ -1,5 +1,5 @@
 ----------------------------------
-# OPEN-KTH: An open Lidar dataset of KTH campus Vahlallavägen
+# OPEN-KTH: An open Lidar dataset of KTH campus Valhallavägen
 
 ### Open-KTH is a subproject of the AD-EYE testbed for Automated Driving and Intelligent Transportation Systems.
 ### Learn more at https://www.adeye.se/open-kth or contact adeye@md.kth.se
