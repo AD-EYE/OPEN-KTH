@@ -8,7 +8,7 @@
 
 The AD-EYE simulation platform is based on the description presented in the work :
 
-Naveen Mohan, Martin Törngren, "A practical simulation toolchain for the early verification of Functional Safety Concepts.", SAE Technical Paper 19AE-0203/2019-01-0126, https://doi.org/10.4271/2019-01-0126
+Naveen Mohan, Martin Törngren, "AD-EYE: A Co-Simulation Platform for Early Verification of Functional Safety Concepts", SAE Technical Paper 19AE-0203/2019-01-0126, https://doi.org/10.4271/2019-01-0126
 
 Preprint available at: https://arxiv.org/abs/1912.00448
 
